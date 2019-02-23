@@ -2,6 +2,7 @@
 My leetcode js answers.
 
 - [1.两数之和](./answer/1.Two%20Sum.js)
+- [2.两数相加](./answer/2.js)
 - [4.寻找两个有序数组的中位数](./answer/4.Median%20of%20Two%20Sorted%20Arrays.js)
 - [11.盛最多水的容器](./answer/11.Container%20With%20Most%20Water.js)
 - [14.最长公共前缀](./answer/14.Longest%20Common%20Prefix.js)
