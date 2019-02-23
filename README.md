@@ -20,6 +20,7 @@ My leetcode js answers.
 - [142.环形链表 II](./answer/142.Linked%20List%20Cycle%20II.js)
 - [206.反转链表](./answer/206.Reverse%20Linked%20List.js)
 - [217.存在重复元素](./answer/217.Contains%20Duplicate.js)
+- [231.2的幂](./answer/231.Power%20of%20Two.js)
 - [238.除自身以外数组的乘积](./answer/238.Product%20of%20Array%20Except%20Self.js)
 - [344.反转字符串](./answer/344.Reverse%20String.js)
 - [557.反转字符串中的单词 III](./answer/557.Reverse%20Words%20in%20a%20String%20III.js)
