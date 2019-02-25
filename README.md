@@ -3,6 +3,7 @@ My leetcode js answers.
 
 - [1.两数之和](./answer/1.Two%20Sum.js)
 - [2.两数相加](./answer/2.Add%20Two%20Numbers.js)
+- [3.无重复字符的最长子串](./answer/3.Longest%20Substring%20Without%20Repeating%20Characters.js)
 - [4.寻找两个有序数组的中位数](./answer/4.Median%20of%20Two%20Sorted%20Arrays.js)
 - [7.整数反转](./answer/7.Merge%20Two%20Sorted%20Lists.js)
 - [8.字符串转换整数(atoi)](./answer/8.String%20to%20Integer%20(atoi).js)
@@ -21,6 +22,7 @@ My leetcode js answers.
 - [136.只出现一次的数字](./answer/136.Single%20Number.js)
 - [141.环形链表](./answer/141.Linked%20List%20Cycle.js)
 - [142.环形链表 II](./answer/142.Linked%20List%20Cycle%20II.js)
+- [151.翻转字符串里的单词](./answer/151.Reverse%20Words%20in%20a%20String.js)
 - [189.旋转数组](./answer/189.Rotate%20Array.js)
 - [206.反转链表](./answer/206.Reverse%20Linked%20List.js)
 - [217.存在重复元素](./answer/217.Contains%20Duplicate.js)
@@ -30,3 +32,4 @@ My leetcode js answers.
 - [344.反转字符串](./answer/344.Reverse%20String.js)
 - [350.两个数组的交集II](./answer/350.Intersection%20of%20Two%20Arrays%20II.js)
 - [557.反转字符串中的单词 III](./answer/557.Reverse%20Words%20in%20a%20String%20III.js)
+- [567.字符串的排列](./answer/567.Permutation%20in%20String.js)
