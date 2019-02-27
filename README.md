@@ -17,7 +17,9 @@ My leetcode js answers.
 - [21.合并两个有序链表](./answer/21.Reverse%20Integer.js)
 - [26.删除排序数组中的重复项](./answer/26.Remove%20Duplicates%20from%20Sorted%20Array.js)
 - [43.字符串相乘](./answer/43.Multiply%20Strings.js)
+- [46.全排列](./answer/46.Permutations.js)
 - [70.爬楼梯](./answer/70.Climbing%20Stairs.js)
+- [78.子集](./answer/78.subsets.js)
 - [88.合并两个有序数组](./answer/88.Merge%20Sorted%20Array.js)
 - [136.只出现一次的数字](./answer/136.Single%20Number.js)
 - [141.环形链表](./answer/141.Linked%20List%20Cycle.js)
@@ -33,3 +35,9 @@ My leetcode js answers.
 - [350.两个数组的交集II](./answer/350.Intersection%20of%20Two%20Arrays%20II.js)
 - [557.反转字符串中的单词 III](./answer/557.Reverse%20Words%20in%20a%20String%20III.js)
 - [567.字符串的排列](./answer/567.Permutation%20in%20String.js)
+
+
+### 笔记
+
+- 对于排列组合的问题，一般可使用深度搜索解决(DFS)，详见46、78.
+- 数组问题一般可以用双指针或者滑动窗口解答，详见.
