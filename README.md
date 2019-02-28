@@ -24,6 +24,7 @@ My leetcode js answers.
 - [136.只出现一次的数字](./answer/136.Single%20Number.js)
 - [141.环形链表](./answer/141.Linked%20List%20Cycle.js)
 - [142.环形链表 II](./answer/142.Linked%20List%20Cycle%20II.js)
+- [148.排序链表](./answer/148.Sort%20List.js)
 - [151.翻转字符串里的单词](./answer/151.Reverse%20Words%20in%20a%20String.js)
 - [189.旋转数组](./answer/189.Rotate%20Array.js)
 - [206.反转链表](./answer/206.Reverse%20Linked%20List.js)
