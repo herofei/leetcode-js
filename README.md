@@ -34,7 +34,7 @@ My leetcode js answers.
 - [217.存在重复元素](./answer/217.Contains%20Duplicate.js)
 - [230.二叉搜索树中第K小的元素](./answer/230.Kth%20Smallest%20Element%20in%20a%20BST.js)
 - [235.二叉搜索树的最近公共祖先](./answer/235.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.js)
-- [236.二叉树的最近公共祖先]()
+- [236.二叉树的最近公共祖先](./answer/236.Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.js)
 - [231.2的幂](./answer/231.Power%20of%20Two.js)
 - [238.除自身以外数组的乘积](./answer/238.Product%20of%20Array%20Except%20Self.js)
 - [292.Nim游戏](./answer/292.Nim%20Game.js)
