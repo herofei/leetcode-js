@@ -1,5 +1,5 @@
 # leetcode-js
-My leetcode js answers.
+My leetcode answers written in JavaScript.
 
 - [1.两数之和](./answer/1.Two%20Sum.js)
 - [2.两数相加](./answer/2.Add%20Two%20Numbers.js)
