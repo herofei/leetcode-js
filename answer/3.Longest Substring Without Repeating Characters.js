@@ -2,6 +2,8 @@
  * @param {string} s
  * @return {number}
  */
+// 利用单指针，时间复杂度为O(n);
+
 var lengthOfLongestSubstring = function(s) {
     let hash = {},
         start = 0,
